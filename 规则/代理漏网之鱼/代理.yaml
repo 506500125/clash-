@@ -3,5 +3,7 @@ payload:
 - DOMAIN-SUFFIX,ktmcloud.top
 - DOMAIN-KEYWORD,ktmcloud
 - DOMAIN-SUFFIX,tanzcloud.com
-- URL-REGEX,^https://107083\.nginx24tanz\.xyz/link/fX7VHqurL99M6vZz\?sub=3$
+- DOMAIN-KEYWORD,tanzcloud
+- DOMAIN,107083.nginx24tanz.xyz
+- DOMAIN,wiki.metacubex.one
 #其他（后续补充）

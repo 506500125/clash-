@@ -5,7 +5,7 @@ payload:
 - DOMAIN-SUFFIX,tanzcloud.com
 - DOMAIN-KEYWORD,tanzcloud
 - DOMAIN,107083.nginx24tanz.xyz
-- DOMAIN-SUFFIX,.nginx24tanz.xyz
+- DOMAIN-SUFFIX,nginx24tanz.xyz
 - DOMAIN,wiki.metacubex.one
 - DOMAIN-SUFFIX,embywiki.911997.xyz
 #其他（后续补充）

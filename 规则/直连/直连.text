@@ -17,6 +17,8 @@ DOMAIN,gamer520.com
 DOMAIN,laoquzhang.com
 DOMAIN,myip4.ipip.net
 DOMAIN,free2.28.al
+
 #steam
-#DOMAIN-SUFFIX,steam.com,BYPASS
-#DOMAIN-SUFFIX,valvesoftware.com,BYPASS
+DOMAIN-SUFFIX,steam.com,BYPASS
+DOMAIN-SUFFIX,valvesoftware.com,BYPASS
+DOMAIN,t.vvwall.com

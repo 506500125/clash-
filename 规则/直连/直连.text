@@ -19,8 +19,8 @@ DOMAIN,myip4.ipip.net
 DOMAIN,free2.28.al
 DOMAIN,free.28.al
 DOMAIN,zkjaol7gecfe.929922.xyz
-#DOMAIN-SUFFIX,free.28.al
-#DOMAIN-SUFFIX,free2.28.al
+DOMAIN-SUFFIX,free.28.al
+DOMAIN-SUFFIX,free2.28.al
 #steam
 DOMAIN-SUFFIX,steam.com,BYPASS
 DOMAIN-SUFFIX,valvesoftware.com,BYPASS

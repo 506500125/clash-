@@ -1,5 +1,6 @@
-DOMAIN,speedtest.cn
-DOMAIN-SUFFIX,speedtest.cn
+payload:
+- DOMAIN,speedtest.cn
+- DOMAIN-SUFFIX,speedtest.cn
 ###FAC
 #DOMAIN-SUFFIX,cinema.makima.online
 #DOMAIN-SUFFIX,theater.makima.online
@@ -8,19 +9,19 @@ DOMAIN-SUFFIX,speedtest.cn
 #DOMAIN-SUFFIX,restrict.makima.online
 #DOMAIN-SUFFIX,hkb-emby2.aliz.work
 ##家里的
-DOMAIN,alist.xiaoya.pro
-DOMAIN,pan.clun.top
-DOMAIN,tczhongyi.toc.icu
-DOMAIN,ip.3322.net
+- DOMAIN,alist.xiaoya.pro
+- DOMAIN,pan.clun.top
+- DOMAIN,tczhongyi.toc.icu
+- DOMAIN,ip.3322.net
 ##国内小众
-DOMAIN,gamer520.com
-DOMAIN,laoquzhang.com
-DOMAIN,myip4.ipip.net
+- DOMAIN,gamer520.com
+- DOMAIN,laoquzhang.com
+- DOMAIN,myip4.ipip.net
 ##DOMAIN,free2.28.al
 ##DOMAIN,free.28.al
 ##DOMAIN-SUFFIX,free.28.al
 ##DOMAIN-SUFFIX,free2.28.al
 #steam
-DOMAIN-SUFFIX,steam.com,BYPASS
-DOMAIN-SUFFIX,valvesoftware.com,BYPASS
-DOMAIN,t.vvwall.com
+- DOMAIN-SUFFIX,steam.com,BYPASS
+- DOMAIN-SUFFIX,valvesoftware.com,BYPASS
+- DOMAIN,t.vvwall.com

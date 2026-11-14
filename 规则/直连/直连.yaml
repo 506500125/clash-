@@ -21,7 +21,10 @@ payload:
 ##DOMAIN,free.28.al
 ##DOMAIN-SUFFIX,free.28.al
 ##DOMAIN-SUFFIX,free2.28.al
-#steam
-- DOMAIN-SUFFIX,steam.com,BYPASS
-- DOMAIN-SUFFIX,valvesoftware.com,BYPASS
-- DOMAIN,t.vvwall.com
+# Valve官网、短链接（安全直连）
+- DOMAIN-SUFFIX,valvesoftware.com
+- DOMAIN-SUFFIX,shturl.cc
+# Steam CDN资源、下载（强烈建议直连，提速）
+- DOMAIN-SUFFIX,steamstatic.com
+- DOMAIN-SUFFIX,steamcontent.com
+- DOMAIN-SUFFIX,akamaihd.net
